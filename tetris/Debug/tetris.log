@@ -1,9 +1,9 @@
 ﻿  test.cpp
   tetris.cpp
-C:\Users\JY\Desktop\data\포트폴리오\8. C language programming - Tetris\tetris\tetris\tetris.cpp(90,29): warning C4101: 'block_side_y' :참조되지 않은 지역 변수입니다.
-C:\Users\JY\Desktop\data\포트폴리오\8. C language programming - Tetris\tetris\tetris\tetris.cpp(90,15): warning C4101: 'block_side_x' :참조되지 않은 지역 변수입니다.
-C:\Users\JY\Desktop\data\포트폴리오\8. C language programming - Tetris\tetris\tetris\tetris.cpp(137,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\JY\Desktop\data\포트폴리오\8. C language programming - Tetris\tetris\tetris\tetris.cpp(137,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\JY\Desktop\github\Tetris_game\tetris\tetris.cpp(90,29): warning C4101: 'block_side_y' :참조되지 않은 지역 변수입니다.
+C:\Users\JY\Desktop\github\Tetris_game\tetris\tetris.cpp(90,15): warning C4101: 'block_side_x' :참조되지 않은 지역 변수입니다.
+C:\Users\JY\Desktop\github\Tetris_game\tetris\tetris.cpp(137,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\JY\Desktop\github\Tetris_game\tetris\tetris.cpp(137,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
   코드를 생성하고 있습니다...
-C:\Users\JY\Desktop\data\포트폴리오\8. C language programming - Tetris\tetris\tetris\tetris.cpp(307): warning C4715: 'block_bottom_check': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  tetris.vcxproj -> C:\Users\JY\Desktop\data\포트폴리오\8. C language programming - Tetris\tetris\Debug\tetris.exe
+C:\Users\JY\Desktop\github\Tetris_game\tetris\tetris.cpp(307): warning C4715: 'block_bottom_check': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  tetris.vcxproj -> C:\Users\JY\Desktop\github\Tetris_game\Debug\tetris.exe
